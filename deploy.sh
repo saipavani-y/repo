@@ -1,2 +1,3 @@
-hiiiiiiiiiiiiiii
-hloooooooooooooooo
+#!/bin/bash
+echo "hiiiiiiiiiiiiiii"
+echo "hloooooooooooooooo"
